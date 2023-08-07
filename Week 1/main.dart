@@ -88,6 +88,6 @@ print(numb);
 if(numb>150 && numb<200){
   print('151 to 199');
 }
-
-
+  Print("Number is greater than Range");
+  
 } 
